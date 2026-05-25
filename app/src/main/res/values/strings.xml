@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="daily_goal">Daily Goal: 2000 grams</string>
+    <string name="food_consumed">Food Consumed</string>
+    <string name="calories_burned">Calories Burned</string>
+    <string name="add_food">Add Food</string>
+    <string name="add_burn">Add Exercise</string>
+    <string name="view_history">View History</string>
+    <string name="grams">grams</string>
+    <string name="calories">calories</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="history">History</string>
+    <string name="delete">Delete</string>
+    <string name="no_entries">No entries yet</string>
+</resources>
